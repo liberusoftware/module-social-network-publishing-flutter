@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-publishing-flutter",
+  "capabilityKey": "liberusoftware/module-social-network-publishing",
+  "presentation": "mobile-flutter",
+  "package": "module_social_network_publishing_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/social-network/nextjs/publishing.md",
+  "presentationPlan": "projects/social-network/flutter/publishing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
